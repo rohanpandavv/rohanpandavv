@@ -2,9 +2,9 @@
 
 🧑 My name is Rohan Pandav and I am a 23-Year Old Guy from Mumbai, India
 
-👩‍💻 Currently I am working at [Fintoo](https://www.fintoo.in/) as a Jr. Software Developer
+👩‍💻 Working as a Jr. Software Developer at [Fintoo](https://www.fintoo.in/)
 
-👨‍🎓 I completed my Master's in Computer Applications from NMIMS, Mumbai
+👨‍🎓 I completed my Master's in Computer Applications from NMIMS, Mumbai in 2022
 
 ### Technologies I am familiar with - 
 

@@ -1,7 +1,6 @@
 <h1> Hello! Welcome to my GitHub Profile ☺
 
 <h2> Technologies I have worked on -
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
 
 <!--
 **rohanpandavv/rohanpandavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

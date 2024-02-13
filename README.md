@@ -2,7 +2,7 @@
 
 🧑 My name is Rohan Pandav and I am a 24-Year Old Guy from Mumbai, India
 
-👩‍💻 Working as a Jr. Software Developer at [WealthTech Robo Advisory](https://www.wealthtech.ai/)
+👩‍💻 Working as a Jr. Software Developer at [Fintoo](https://fintoo.in/)
 
 👨‍🎓 I completed my Master's in Computer Applications from NMIMS, Mumbai in 2022
 

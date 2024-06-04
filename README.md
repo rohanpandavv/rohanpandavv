@@ -2,7 +2,7 @@
 
 🧑 My name is Rohan Pandav and I am a 24-Year Old Guy from Mumbai, India
 
-👩‍💻 Working as a Python Developer at [Blueray](https://blueray.ai/)
+👩‍💻 Working as a Python Developer at [Blueray Automation](https://blueray.ai/)
 
 👨‍🎓 I completed my Master's in Computer Applications from NMIMS, Mumbai in 2022
 
@@ -12,5 +12,7 @@
 
 ### If you want to connect with me, reach out to me on -
 ![](https://dcbadge.vercel.app/api/shield/246160030494228481)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpandavv/)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w8nvet7cy27y5whvgcj47ng1n&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=w8nvet7cy27y5whvgcj47ng1n&redirect=true)
+

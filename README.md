@@ -1,4 +1,5 @@
 # Hi, welcome to my GitHub Profile ✨
+<img align="right" src="https://komarev.com/ghpvc/?username=rohanpandavv&style=plastic&label=TIMES+VIEWED&color=red" alt="GitHub profile views counter">
 
 🧑 My name is Rohan Pandav and I am a 26-Year Old Guy from Mumbai, India
 

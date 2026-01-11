@@ -17,3 +17,9 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/2d94ee18-e89e-4d37-80fd-64297ff07bd7/thumbnail" >
 </p>
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
